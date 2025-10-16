@@ -2,3 +2,4 @@ hello world from my side
 hello world from featureA
 Hello World from featureB
 new line added for testing hooks
+new line for pre-commit hooks
